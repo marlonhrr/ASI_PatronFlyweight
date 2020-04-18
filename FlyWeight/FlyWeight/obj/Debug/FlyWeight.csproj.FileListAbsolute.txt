@@ -1,0 +1,12 @@
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\DIO\Desktop\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe.config
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\bin\Debug\FlyWeight.exe
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\bin\Debug\FlyWeight.pdb
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\obj\Debug\FlyWeight.csprojAssemblyReference.cache
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\obj\Debug\FlyWeight.exe
+C:\Users\px03008\Downloads\FlyWeight\FlyWeight\obj\Debug\FlyWeight.pdb
